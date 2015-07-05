@@ -10,6 +10,7 @@ url              : "http://jschoeley.github.io"
 twitter_username : rettungstweet
 github_username  : jschoeley
 paginate         : 5
+paginate_path    : "/page:num/"
 # Build settings
 markdown         : redcarpet
 highlighter      : pygments
