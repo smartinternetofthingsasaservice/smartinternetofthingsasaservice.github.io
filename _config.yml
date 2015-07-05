@@ -9,6 +9,7 @@ baseurl          : ""
 url              : "http://jschoeley.github.io"
 twitter_username : rettungstweet
 github_username  : jschoeley
+paginate         : 5
 # Build settings
 markdown         : redcarpet
 highlighter      : pygments
