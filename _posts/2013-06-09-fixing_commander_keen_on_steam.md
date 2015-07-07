@@ -36,3 +36,5 @@ usescancodes=false
 You will have to to this for every Keen game separately.
 
 ![](/assets/2013-06-09-fixing_commander_keen_on_steam/Dopefish.png)
+
+cc-by Jonas Schöley

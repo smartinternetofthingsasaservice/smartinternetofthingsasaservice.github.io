@@ -131,3 +131,5 @@ Und natürlich der Text von Bob Dylans Hurricane in dem es um einen ähnlich ver
 >  And give him back the time he’s done  
 >  Put in a prison cell, but one time he could-a been  
 >  The champion of the world
+
+cc-by Jonas Schöley

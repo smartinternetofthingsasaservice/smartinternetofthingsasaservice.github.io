@@ -12,3 +12,5 @@ Ein Jazz Jam in seiner vollen 13 minütigen Pracht. Entstanden zwischen Weihnach
 
 ![](/assets/2014-01-15-zwischeraum_jam/zwischenraum.jpg)
 *Der Zwischenraum*
+
+cc-by Jonas Schöley, Simon Bartels

@@ -26,3 +26,5 @@ Mit [GIMP](http://www.gimp.org/) habe ich dann Schicht um Schicht die Karte erst
 Und das Endergebnis:
 
 ![](/assets/2013-12-27-anatomie_einer_sammelkarte/rfc_frauen_13141.jpg)
+
+cc-by-nc-nd Jonas Schöley

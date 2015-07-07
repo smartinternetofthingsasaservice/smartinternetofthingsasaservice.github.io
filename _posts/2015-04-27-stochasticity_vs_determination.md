@@ -13,3 +13,5 @@ Stochasticity relates to our level of understanding regarding a phenomenon. If w
 Explaining the difference between deterministic and stochastic components of a phenomena I was given the following example: "The event of winning the lottery is produced by my decision to play lottery (deterministic) vs. the outcome of the lottery (stochastic)." OK, from an individuals point of view this distinction makes sense. But being the scientist who models lottery losses we might or might not know if someone will play the lottery, or how regularly. Depending on our level of knowledge we might use probability distributions to model our uncertainty and therefore treat the decision to play the lottery as a stochastic phenomena.
 
 Stochastic processes versus deterministic processes. It's not them, it's us.
+
+cc-by Jonas Schöley

@@ -6,9 +6,9 @@ tags   : R fukushima
 layout : post
 ---
 
-*ENGLISH: I collect the data from various Geiger-counter-live-streams in Japan and display these informations with the help of the statistical software `R`. I'm hereby trying to make independent information possible. Please feel free to share the link and the data/graphs.*
+*I collect the data from various Geiger-counter-live-streams in Japan and display these informations with the help of the statistical software `R`. I'm hereby trying to make independent information possible.*
 
-*UPDATE: I stopped logging the data, because until now (2011-04-29) the web-stream data showed no evidence of an unusual high radiation at Tokyo or the surrounding area. That doesn't mean that there isn't any, but I can only speak for the data I analysed.*
+*I stopped logging the data, because until now (2011-04-29) the web-stream data showed no evidence of an unusual high radiation at Tokyo or the surrounding area. That doesn't mean that there isn't any, but I can only speak for the data I analysed.*
 
 ![](/assets/2011-03-17-strahlung_in_tokio/cpm10.png)
 
@@ -44,3 +44,4 @@ P.S.
 
 Ein Auftaktartikel dieser Art auf einem Blog namens Rettungsdecke, mag doch entweder sehr krude erscheinen oder sehr existenziellen Humor ausstrahlen. Er erscheint auf diesem noch absolut unfertigen Blog, da ich selbst nach einer solchen Statistik gesucht, aber nichts gefunden habe und ich vermute, dass auch noch andere an diesen Zahlen interessiert sind.
 
+cc-by Jonas Schöley

@@ -7,3 +7,5 @@ layout : post
 ---
 
 ![](/assets/2011-04-29-man_ist_ja_immer_so_wichtig_heutzutage/wichtig.jpg)
+
+cc-by Jonas Schöley

@@ -38,3 +38,5 @@ I already mentioned that this city smells really good. Well it's like a friggin'
 
 ![](/assets/2015-05-05-san_diego_panoramic_i/IMG_20150427_132907.jpg)
 *... and thorny trees.*
+
+cc-by Jonas Schöley

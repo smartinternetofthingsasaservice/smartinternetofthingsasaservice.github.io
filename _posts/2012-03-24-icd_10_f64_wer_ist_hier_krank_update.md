@@ -12,12 +12,11 @@ Nach wie vor basiert diese Entscheidung auf der Einschätzung einer einzigen Mit
 
 Gegen die Entscheidung des Jugendamtes haben Mutter und Tochter geklagt. Letzten Donnerstag wurde die Klage vom Berliner Kammergericht abgewiesen. Das Gericht bestätigte die Zwangseinweisung und Familienauflösung als angemessen und hielt es nicht für nötig, die Einschätzung eines psychologischen Sachverständigen heranzuziehen, obwohl dieses von Mutter und Kind angefragt wurde.
 
-["Kein Mensch passt in eine
-Schublade"](https://www.antidiskriminierungsstelle.de/SharedDocs/Aktuelles/DE/2011/20111124_Kampagne.html) plakatiert die Antidiskriminierungsstelle des Bundes. Stimmt -- aber im Zweifelsfall werden Menschen einfach passend gemacht. Wir können uns noch so kluge Gesetze geben, noch so aufgeklärte Absichtserklärungen veröffentlichen -- wenn das Bauchgefühl der Mehrheit gegen etwas rebelliert, in diesem Fall Transsexualität, wird diese Ablehnung mit Gewalt in das bestehende Rechts- und Ethiksystem hineingedrückt und sei das Ergebnis noch so wiedersprüchlich.
+["Kein Mensch passt in eine Schublade"](https://www.antidiskriminierungsstelle.de/SharedDocs/Aktuelles/DE/2011/20111124_Kampagne.html) plakatiert die Antidiskriminierungsstelle des Bundes. Stimmt -- aber im Zweifelsfall werden Menschen einfach passend gemacht. Wir können uns noch so kluge Gesetze geben, noch so aufgeklärte Absichtserklärungen veröffentlichen -- wenn das Bauchgefühl der Mehrheit gegen etwas rebelliert, in diesem Fall Transsexualität, wird diese Ablehnung mit Gewalt in das bestehende Rechts- und Ethiksystem hineingedrückt und sei das Ergebnis noch so wiedersprüchlich.
 
 Der Fall geht jetzt vor das Bundesverfassungsgericht. Mag dieses das geschehene Unrecht endlich offiziell benennen und das Mädchen befreit werden von behördlicher Gewalt gegenüber intimsten Teilen der Persönlichkeit.
 
-- Hier der aktuelle taz-Artikel zu dem Thema: <https://www.taz.de/Streit-um-elfjaehrige-Transsexuelle/!90229/>
-- Hier eine Online-Petition, die versucht, Aufmerksamkeit für diesen Fall zu generieren (der Fall wird dort aber anders dargestellt als von der taz geschildert): <https://www.change.org/petitions/mayor-of-berlin-stop-the-institutionalization-of-a-11-year-old-transexual>
-- Hier eine Protestveranstaltung am Montag in Berlin: <http://bewegung.taz.de/termine/zwangspsychiatrisierung-von-alex-sofort-stoppen>
+* [Hier](https://www.taz.de/Streit-um-elfjaehrige-Transsexuelle/!90229/) der aktuelle taz-Artikel zu dem Thema,
+* [hier](https://www.change.org/petitions/mayor-of-berlin-stop-the-institutionalization-of-a-11-year-old-transexual) eine Online-Petition, die versucht, Aufmerksamkeit für diesen Fall zu generieren (der Fall wird dort aber anders dargestellt als von der taz geschildert).
 
+cc-by Jonas Schöley

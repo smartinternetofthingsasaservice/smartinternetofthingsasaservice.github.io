@@ -37,3 +37,5 @@ Und dies macht mich weder verdächtig noch kriminell. Geheimnis und Verbrechen n
 Wenn wir also gefragt werde, ob wir denn etwas zu verbergen hätten, dann kann die Antwort nur sein: *Ja. Eine Menge.*
 
 ... der Zivilfahnder hat dann die SMS doch heimlich im Wagen gelesen. Die Liste der zuletzt geöffneten Anwendungen gab Auskunft darüber. Das Handy war nicht gestohlen. Ist das nicht schön?
+
+cc-by Jonas Schöley

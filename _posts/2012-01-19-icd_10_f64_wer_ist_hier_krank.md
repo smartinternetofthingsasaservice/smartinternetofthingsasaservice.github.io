@@ -6,9 +6,7 @@ tags   : transexualität politik
 layout : post
 ---
 
-*Nachtrag 21.01.2012:*
-
-Eine Freundin hat mich auf Kommentare unter dem TAZ-Artikel hingewiesen, welche das gesellschaftlich konstruierte Geschlecht als ursächlich für die Misere von Transsexuellen ausmachen. Würde dem Geschlecht einer Person nicht so viel Aufmerksamkeit zukommen, so die Argumentation, müssten Transsexuelle keine Geschlechtsanpassung vornehmen, weil sie quasi geschlechtslos "Mensch" sein könnten. Da ich generell ja auch zu einer konstruktivistischen Weltsicht neige, hat mich dieses Argument besonders beschäftigt:
+*Nachtrag 21.01.2012:* Eine Freundin hat mich auf Kommentare unter dem TAZ-Artikel hingewiesen, welche das gesellschaftlich konstruierte Geschlecht als ursächlich für die Misere von Transsexuellen ausmachen. Würde dem Geschlecht einer Person nicht so viel Aufmerksamkeit zukommen, so die Argumentation, müssten Transsexuelle keine Geschlechtsanpassung vornehmen, weil sie quasi geschlechtslos "Mensch" sein könnten. Da ich generell ja auch zu einer konstruktivistischen Weltsicht neige, hat mich dieses Argument besonders beschäftigt:
 
 Es ist falsch, Transsexuellen eine geschlechtsangleichende Maßnahme zu verwehren, weil sie sich eines Identitätsmerkmals bedienen (dem Geschlecht), welches man als soziale Unterscheidung ablehnt. An dem von der TAZ geschilderten Fall ist deutlich zu sehen, dass Transsexualität keine Frage von geschlechtlichen Rollenstereotypen oder Rollenmustern ist (vor der Wahl stehend mit Puppen oder Autos zu spielen entscheidet sich das Mädchen genervt für ein herumliegendes Puzzle), sondern viel rudimentärer auf einem vorgesellschaftliches Geschlechtsempfinden beruht, welches nicht mit dem biologischen Geschlecht konform geht.
 
@@ -40,3 +38,4 @@ P.S.
 
 In Frankreich ist ICD F64.0 als Diagnose nicht mehr zulässig.
 
+cc-by Jonas Schöley

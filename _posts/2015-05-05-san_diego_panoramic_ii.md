@@ -30,3 +30,5 @@ The bus was only taking me this far and I had to walk for a while through reside
 
 ![](/assets/2015-05-05-san_diego_panoramic_ii/IMG_20150429_164634.jpg)
 *This was before I found water, sun-lotion and shades. I didn't care at that moment though.*
+
+cc-by Jonas Schöley

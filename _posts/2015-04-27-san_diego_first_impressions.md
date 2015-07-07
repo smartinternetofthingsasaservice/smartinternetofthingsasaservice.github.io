@@ -44,3 +44,4 @@ Here's something I already know about San Diego: This must be one of the *nicest
 ![](/assets/2015-04-27-san_diego_first_impressions/IMG_20150426_163921.jpg)
 *...and also to related pop-culture.*
 
+cc-by Jonas Schöley

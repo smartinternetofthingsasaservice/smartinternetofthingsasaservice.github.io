@@ -174,4 +174,4 @@ Zuletzt schärfe ich die Bilder leicht nach und erhöhe den Kontrast etwas, vers
 ![](/assets/2013-06-11-tutorial_fussballfotografie/torjubel.jpg)
 *...manchmal geht's aber auch ohne*
 
-Alle Bilder (c) Jonas Richter-Dumke / Jonas Schöley 2013. Text: cc-by Jonas Schöley
+Alle Bilder (c) Jonas Richter-Dumke / Jonas Schöley. Text: cc-by Jonas Schöley
