@@ -6,6 +6,6 @@ tags   : kunst humor
 layout : post
 ---
 
-![](/assets/2012-08-21-nietzscheente_nag_nag/nietzscheente_vector.svg)
+![](/assets/2012-08-21-nietzscheente_nag_nag/nietzscheente.svg)
 
 cc-by Jonas Schöley
