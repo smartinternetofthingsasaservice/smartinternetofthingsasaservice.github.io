@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-temp
+This is my blog, version 2015. I am jp, a engineer/scientist and misanthrop from Rostock, Germany.
 
-this blog is forked from https://jschoeley.github.io/
+This blog is forked from (https://jschoeley.github.io/)
