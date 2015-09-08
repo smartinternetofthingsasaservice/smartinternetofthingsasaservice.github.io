@@ -4,7 +4,7 @@ email            : johannpwolff@gmail.com
 description      : temp3
 baseurl          : ""
 url              : "http://smartinternetofthingsasaservice.github.io/"
-twitter_username : Frevlord
+twitter_username : SIoTaaSSMA
 github_username  : smartinternetofthingsasaservice
 paginate         : 5
 paginate_path    : "/page:num/"
