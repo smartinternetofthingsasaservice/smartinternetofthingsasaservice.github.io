@@ -1,8 +1,7 @@
 # Site settings
 title            : SIoTaaS
 email            : johannpwolff@gmail.com
-description      :
-  temp2
+description      : temp3123
 baseurl          : ""
 url              : "http://smartinternetofthingsasaservice.github.io/"
 twitter_username : Frevlord
