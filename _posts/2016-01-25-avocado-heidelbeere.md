@@ -6,7 +6,7 @@ date  : 2016-01-25
 Ich habe eine neue Soße entdeckt. Das heisst natürlich, dass ich sie erfunden habe. Zumindest vermutlich, denn ich habe nicht recherchiert, ob schonmal jemand auf diese Idee kam. Mir kam am Freitag der Gedanke, zwei Geschmäcker zu kombinieren: Avocado (eine Frucht, die ich erst vor kurzem schätzen gelernt habe) und Heidelbeere. Warum das in meinem Kopf Sinn ergab, kann ich nicht so genau sagen, aber erstmal klang es gut. Am Sonntag habe ich es dann in die Tat umgesetzt un vom Ergebnis erzählt dieser Post.
 
 Zuerst habe ich eine Zwiebel kleingemacht:
-![](/assets/2016-01-25-avocado-heidelbeere/zwiebeln_raw.JPG = 500x)
+![](/assets/2016-01-25-avocado-heidelbeere/zwiebeln_raw.JPG | width=500)
 *zwiebeln*
 Und in Butter angeschwitzt:
 ![](/assets/2016-01-25-avocado-heidelbeere/zwiebeln.JPG = 500x)
