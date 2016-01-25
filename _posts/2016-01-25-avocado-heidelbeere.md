@@ -8,6 +8,7 @@ Ich habe eine neue Soße entdeckt. Das heisst natürlich, dass ich sie erfunden 
 Zuerst habe ich eine Zwiebel kleingemacht:
 
 ![](/assets/2016-01-25-avocado-heidelbeere/zwiebeln_raw.JPG)
+
 Und in Butter angeschwitzt:
 
 ![](/assets/2016-01-25-avocado-heidelbeere/zwiebeln.JPG)
@@ -15,6 +16,7 @@ Und in Butter angeschwitzt:
 Parallel hab ich die Avocado mit einem kleinen Löffel ausgekratzt...
 
 ![](/assets/2016-01-25-avocado-heidelbeere/auskratzen.JPG)
+
 ...und in einer Tasse mit dem Saft einer halben Zitrone zermatscht.
 
 ![](/assets/2016-01-25-avocado-heidelbeere/tasse.JPG)
